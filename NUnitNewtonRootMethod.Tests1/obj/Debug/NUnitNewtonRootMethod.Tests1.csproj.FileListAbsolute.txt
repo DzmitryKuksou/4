@@ -1,0 +1,9 @@
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\NUnitNewtonRootMethod.Tests1.dll
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\NUnitNewtonRootMethod.Tests1.pdb
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\nunit.framework.dll
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\SearchRootMethodNyoton.dll
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\SearchRootMethodNyoton.pdb
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\bin\Debug\nunit.framework.xml
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\obj\Debug\NUnitNewtonRootMethod.Tests1.csprojResolveAssemblyReference.cache
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\obj\Debug\NUnitNewtonRootMethod.Tests1.dll
+D:\project c#\day4\NUnitNewtonRootMethod.Tests1\obj\Debug\NUnitNewtonRootMethod.Tests1.pdb

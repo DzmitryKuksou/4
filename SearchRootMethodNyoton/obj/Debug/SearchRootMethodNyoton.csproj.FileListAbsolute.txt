@@ -1,0 +1,5 @@
+D:\project c#\day4\SearchRootMethodNyoton\bin\Debug\SearchRootMethodNyoton.dll
+D:\project c#\day4\SearchRootMethodNyoton\bin\Debug\SearchRootMethodNyoton.pdb
+D:\project c#\day4\SearchRootMethodNyoton\obj\Debug\SearchRootMethodNyoton.csprojResolveAssemblyReference.cache
+D:\project c#\day4\SearchRootMethodNyoton\obj\Debug\SearchRootMethodNyoton.dll
+D:\project c#\day4\SearchRootMethodNyoton\obj\Debug\SearchRootMethodNyoton.pdb
